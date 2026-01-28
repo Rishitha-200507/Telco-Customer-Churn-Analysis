@@ -25,3 +25,4 @@ A data analytics and machine learning project that analyzes customer behavior to
 * Calculated "Churn Rate" using DAX measures.
 * Visualized Churn by Contract, Payment Method, and Tenure.
 * Created an actionable "High Risk" list for the sales team to target customers with >50% probability of leaving.
+![Dashboard Preview](dashboard_screenshot.png)
